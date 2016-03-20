@@ -1,0 +1,14 @@
+{
+  "name": "Promise",
+  "version": "1.0.0",
+  "description": "JS Promise implementation",
+  "main": "Promise.js",
+  "author": "brucexu20@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.1"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests test/adapter"
+  }
+}

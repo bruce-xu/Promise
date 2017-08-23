@@ -1,6 +1,6 @@
 /**
  * @file JS Promise实现
- * @author bruxexu20@gmail.com
+ * @author bruxexyj@gmail.com
  */
 (function (factory, global) {
     if (typeof define === 'function' && define.amd) {
